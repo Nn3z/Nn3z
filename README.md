@@ -9,7 +9,6 @@
 🎯 **Desarrollador backend en crecimiento**  
 💼 Actualmente trabajando con **Go**, **PostgreSQL** y **Fiber**  
 🚀 Construyendo proyectos reales para mi portafolio  
-🎮 Gamer ocasional de **Valorant** y **Warzone**
 
 ---
 
